@@ -1,0 +1,41 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Baris Yildirim",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarisYildirim00/bladeco-charge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BarisYildirim00/bladeco-charge/issues"
+  },
+  "homepage": "https://github.com/BarisYildirim00/bladeco-charge#readme",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1313.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "http": "^0.0.1-security",
+    "iyzipay": "^2.0.48",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.3",
+    "multer": "^1.4.5-lts.1",
+    "multer-s3": "^2.10.0",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.20",
+    "url": "^0.11.0",
+    "ws": "^8.12.0"
+  }
+}

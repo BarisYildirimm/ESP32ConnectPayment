@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "locale": "tr",
+    "systemTime": 1675406722981,
+    "conversationId": "t39Z8aytOi1woVJOcbE0",
+    "cardUserKey": "W3qdNS1s91TvO/UX1NCpxDq2k7U=",
+    "cardDetails": [
+        {
+            "cardToken": "NQaeuKcPCt2LUFlbB2fEQyHy108=",
+            "cardAlias": "Kredi Kartim odemeden sonra",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        },
+        {
+            "cardToken": "GaJ3fNk+NofSLF8N0apyGOEniPM=",
+            "cardAlias": "Kredi Kartim odemeden sonra",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        },
+        {
+            "cardToken": "G6GH7osG2+hs7DZn6Un49ZHK/7U=",
+            "cardAlias": "Kredi Kartim odemeden sonra",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        },
+        {
+            "cardToken": "5HAo8feWXlQ5N1SD7LuaRl244M8=",
+            "cardAlias": "Kredi Kartim",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        },
+        {
+            "cardToken": "lIyi6dLTo84zduf1qJ+r+vhneHM=",
+            "cardAlias": "Kredi Kartım",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        }
+    ]
+}

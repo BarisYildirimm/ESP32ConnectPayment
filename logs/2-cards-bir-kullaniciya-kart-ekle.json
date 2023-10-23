@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "locale": "tr",
+    "systemTime": 1675335596575,
+    "conversationId": "v6nyQlTWsgIiEPxTcM8f",
+    "externalId": "kXRkUI5uJFJELWhqtWKz",
+    "email": "email@email.com",
+    "cardUserKey": "W3qdNS1s91TvO/UX1NCpxDq2k7U=",
+    "cardToken": "CKWqwwKevvkOAutNZDbPDDqYYmg=",
+    "cardAlias": "Kredi Kartim",
+    "binNumber": "55287900",
+    "lastFourDigits": "0008",
+    "cardType": "CREDIT_CARD",
+    "cardAssociation": "MASTER_CARD",
+    "cardFamily": "Paraf",
+    "cardBankCode": 12,
+    "cardBankName": "Halk Bankası"
+}

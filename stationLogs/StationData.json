@@ -1,0 +1,14 @@
+{
+    "stationCode": "BLDC34-035-AC22",
+    "isPublic": true,
+    "socket": [
+        {
+            "status": "FAULT",
+            "socketName": "AC"
+        },
+        {
+            "status": "MAINTENANCE",
+            "socketName": "DC"
+        }
+    ]
+}
